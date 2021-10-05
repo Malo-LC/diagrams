@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-05T06:38:53.416Z" agent="5.0 (X11)" etag="IdNdNAYtN7JyptB5Uodk" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-05T06:41:49.046Z" agent="5.0 (X11)" etag="iC9jkG0LY17l3sazYofS" version="15.4.1" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1781" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
@@ -103,6 +103,11 @@
         <mxCell id="CUH2-jBaXbAoZu0HupLi-19" value="Room is Found" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;labelBackgroundColor=#FFFFFF;fontSize=11;" connectable="0" vertex="1" parent="CUH2-jBaXbAoZu0HupLi-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="CUH2-jBaXbAoZu0HupLi-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=11;" edge="1" parent="1" source="CUH2-jBaXbAoZu0HupLi-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="48" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="CUH2-jBaXbAoZu0HupLi-20" value="Book Initiated" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="-12" y="390" width="120" height="80" as="geometry" />
         </mxCell>
@@ -118,13 +123,25 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CUH2-jBaXbAoZu0HupLi-21" value="" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="CUH2-jBaXbAoZu0HupLi-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;fontSize=11;" edge="1" parent="1" source="CUH2-jBaXbAoZu0HupLi-21" target="3nuBFxr9cyL0pnOWT2aG-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CUH2-jBaXbAoZu0HupLi-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.517;entryY=0.973;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=11;" edge="1" parent="1" source="CUH2-jBaXbAoZu0HupLi-21" target="3nuBFxr9cyL0pnOWT2aG-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CUH2-jBaXbAoZu0HupLi-21" value="Release Message initiated" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="135" y="388" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CUH2-jBaXbAoZu0HupLi-23" value="Room not found" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;labelBackgroundColor=#FFFFFF;fontSize=11;" connectable="0" vertex="1" parent="1">
           <mxGeometry x="173.00413793103442" y="330.0000000000001" as="geometry">
             <mxPoint x="-1" y="17" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CUH2-jBaXbAoZu0HupLi-26" value="No Space Available" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="275" y="410" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CUH2-jBaXbAoZu0HupLi-28" value="Closing Request" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="-12" y="560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
