@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-18T08:24:15.506Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="YtsHCo76NrSdp1a8vvhV" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-18T08:29:26.848Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="u_UfqbKVeNIA9P4eijmI" version="15.5.4" type="github">
   <diagram id="DsiD0tzsdvWzEjYYOT4f" name="Page-1">
     <mxGraphModel dx="2310" dy="1950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,6 +36,18 @@
         </mxCell>
         <mxCell id="IJA1PmfvDwVH18fctgpT-10" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#000000;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="-31.25" y="41" width="382.5" height="255" as="geometry" />
+        </mxCell>
+        <mxCell id="IJA1PmfvDwVH18fctgpT-11" value="" style="shape=xor;whiteSpace=wrap;html=1;fillColor=#000000;rotation=-90;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-509" width="180" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="IJA1PmfvDwVH18fctgpT-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/zoo-line-welcome-to-zootopia/512/parrot-128.png;strokeColor=#000000;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="260" y="-137" width="178" height="178" as="geometry" />
+        </mxCell>
+        <mxCell id="IJA1PmfvDwVH18fctgpT-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpurepng.com%2Fpublic%2Fuploads%2Fmedium%2Fpurepng.com-piratepirateact-of-robberycriminalviolenceshipboatattackerspirates-1421526962357r7moz.png&amp;f=1&amp;nofb=1;strokeColor=#000000;fillColor=#000000;imageBorder=none;strokeWidth=12;imageBackground=none;" vertex="1" parent="1">
+          <mxGeometry x="115.5" y="-358" width="89" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="IJA1PmfvDwVH18fctgpT-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/fantasy-and-role-play-game-adventure-quest/512/Sword-128.png;strokeColor=#000000;strokeWidth=12;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="460" y="-268" width="316" height="316" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
